@@ -1,0 +1,7 @@
+.nav_list {
+    display: inline-block;
+}
+.nav_item {
+    display: inline;
+    padding: 2rem;
+}

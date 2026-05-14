@@ -6,7 +6,13 @@ function App() {
   return (
     <>
       <Navbar></Navbar>
-      Home page
+      <div className='about_container'>
+        <h2>Jacob Klamerus</h2>
+        <p>aspiring software engineer</p>
+      </div>
+      <div className='about_container'>
+        <img src="/flag.svg" className='flag_container'></img>
+      </div>
     </>
   )
 }
