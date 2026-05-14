@@ -6,15 +6,9 @@ function Navbar() {
         <ul>
           <Link to="/"><li>Home</li></Link>
           <Link to="/about"><li>About</li></Link>
-          <li>
-            projects
-          </li>
-          <li>
-            resume
-          </li>
-          <li>
-            links
-          </li>
+          <Link to="/projects"><li>projects</li></Link>
+          <Link to="/resume"><li>resume</li></Link>
+          <Link to="/links"><li>Links</li></Link>
           <li>
             test
           </li>
