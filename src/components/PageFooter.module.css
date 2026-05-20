@@ -1,0 +1,15 @@
+.nav_list {
+    display: inline-block;
+}
+.nav_item {
+    display: inline;
+}
+
+.footer_container {
+    position:fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
