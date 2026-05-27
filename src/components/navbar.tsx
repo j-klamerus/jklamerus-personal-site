@@ -8,7 +8,7 @@ function Navbar() {
                 <Link to="/"><li className={styles.nav_item}>home</li></Link>
                 <Link to="/about"><li className={styles.nav_item}>about</li></Link>
                 <Link to="/projects"><li className={styles.nav_item}>projects</li></Link>
-                <Link to="/resume"><li className={styles.nav_item}>resume</li></Link>
+                <a href="/Jacob Klamerus Resume-2.pdf" target="_blank" rel="noopener" className={styles.nav_item}>resume</a>
                 <Link to="/links"><li className={styles.nav_item}>links</li></Link>
             </ul>
       </nav>

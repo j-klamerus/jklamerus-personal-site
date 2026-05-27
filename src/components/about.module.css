@@ -1,11 +1,10 @@
 .container {
     width: 80%;
     margin: auto;
-    background-color: antiquewhite;   
 }
 .about_headers {
-    font-size: 4rem;
+    font-size: 2.5rem;
 }
 .about_info {
-    font-size: 3rem;
+    font-size: 1.25rem;
 }
