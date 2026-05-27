@@ -1,6 +1,4 @@
 import Navbar from './components/navbar'
-import PageFooter from './components/PageFooter'
-import ProjectCard from './components/ProjectCard'
 import './App.css'
 
 function App() {
@@ -13,7 +11,7 @@ function App() {
         <p>aspiring software engineer</p>
       </div>
       <div className='about_container'>
-        <img src='/flag.svg' className='flag_container'></img>
+        <img src={`${import.meta.env.BASE_URL}flag.svg`} className='flag_container'></img>
       </div>
     </>
   )
