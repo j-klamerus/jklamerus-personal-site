@@ -12,7 +12,7 @@ function Projects() {
                     name="Personal HLTV Clone"
                     tags={["React", "EC2", "Javascript", "MongoDB"]}
                     description="Counter-Strike 2 in-game stats presented in the same way as HLTV.org"
-                    link="cs2-hltv-stats.vercel.app"
+                    link="https://cs2-hltv-stats.vercel.app/"
                     linkLabel="Link"
                 />
                 <ProjectCard
@@ -28,16 +28,16 @@ function Projects() {
                     name="IT Goals Dashboard | United Wholesale Mortgage"
                     tags={["React", "C#", "MySQL", "Agile"]}
                     description="Worked with a team of 4 students to design and develop and application that displayed metrics about company goals."
-                    link=""
+                    link="/projects"
                     linkLabel="GitHub Repo"
                 />
                 <ProjectCard
-                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Freact.jpg&f=1&nofb=1&ipt=37177a07a956b509cbb1cb7322403ffbb640d01b32a7297643d139abd7278abf"
-                    name="IT Goals Dashboard | United Wholesale Mortgage"
-                    tags={["React", "C#", "MySQL", "Agile"]}
-                    description="Worked with a team of 4 students to design and develop and application that displayed metrics about company goals."
-                    //link=""
-                    //linkLabel="GitHub Repo"
+                    image="https://placehold.co/600x400"
+                    name="Work in progress..."
+                    tags={[]}
+                    description="Work in progress..."
+                    link=""
+                    linkLabel="GitHub Repo"
                 />
             </div>
         </>

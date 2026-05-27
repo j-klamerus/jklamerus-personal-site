@@ -1,6 +1,10 @@
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
-  padding: 2rem 0;
+  gap: 1rem;
+  padding: 2rem 3vw;
+  box-sizing: border-box;
+  max-width: 1200px;
+  margin: 0 auto;
+  place-items: center;
 }

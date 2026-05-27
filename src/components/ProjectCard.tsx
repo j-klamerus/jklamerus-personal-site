@@ -11,7 +11,7 @@ export interface ProjectCardProps {
 
 export default function ProjectCard({ image, name, tags, description, link, linkLabel }: ProjectCardProps) {
     return (
-        <Card sx={{ width: 320, minHeight: 400, p: 2 }}>
+        <Card sx={{ width: 320, minHeight: 400, p: 2, backgroundColor: '#f9f9f9' }}>
             <CardCover>
                 <img src={image} alt={name} style={{ objectFit: "cover", width: "100%", height: 180 }} />
             </CardCover>
