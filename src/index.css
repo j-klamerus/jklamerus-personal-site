@@ -1,3 +1,9 @@
+ :root {
+    --joy-fontFamily-body: -apple-system;
+    --joy-fontFamily-display: -apple-system;
+}
+
 body {
     background-color: rgb(251, 243, 228);
+    font-family: -apple-system;
 }

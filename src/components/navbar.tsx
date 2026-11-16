@@ -8,7 +8,7 @@ function Navbar() {
                 <Link to="/"><li className={styles.nav_item}>Home</li></Link>
                 <Link to="/about"><li className={styles.nav_item}>About</li></Link>
                 <Link to="/projects"><li className={styles.nav_item}>Projects</li></Link>
-                <a href={`${import.meta.env.BASE_URL}Jacob Klamerus Resume-4.pdf`} target="_blank" rel="noopener" className={styles.nav_item}>Resume</a>
+                <a href={`${import.meta.env.BASE_URL}Jacob Klamerus Resume-5.pdf`} target="_blank" rel="noopener" className={styles.nav_item}>Resume</a>
                 <Link to="/links"><li className={styles.nav_item}>Contact</li></Link>
             </ul>
       </nav>

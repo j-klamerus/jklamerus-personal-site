@@ -4,7 +4,7 @@ function Resume() {
     return(
         <>
         <Navbar></Navbar>
-        <a href="Jacob Klamerus Resume-2.pdf" target="_blank">resume</a>
+        <a href="Jacob Klamerus Resume-5.pdf" target="_blank">resume</a>
         </>
     )
 }

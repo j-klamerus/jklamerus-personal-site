@@ -12,8 +12,8 @@ function Projects() {
                     name="Personal HLTV Clone"
                     tags={["React", "EC2", "Javascript", "MongoDB"]}
                     description="Counter-Strike 2 in-game stats presented in the same way as HLTV.org"
-                    link="https://cs2-hltv-stats.vercel.app/"
-                    linkLabel="Link"
+                    link="https://github.com/j-klamerus/cs2-hltv-stats"
+                    linkLabel="Github Repo"
                 />
                 <ProjectCard
                     image="https://github.com/j-klamerus/SWE426-LoLTracker/blob/develop/app/src/main/res/drawable/logo.webp?raw=true"
@@ -29,15 +29,7 @@ function Projects() {
                     tags={["React", "C#", "MySQL", "Agile"]}
                     description="Worked with a team of 4 students to design and develop an application that displayed metrics about company goals."
                     link="/projects"
-                    linkLabel="GitHub Repo"
-                />
-                <ProjectCard
-                    image="https://placehold.co/600x400"
-                    name="Work in progress..."
-                    tags={[]}
-                    description="Work in progress..."
-                    link=""
-                    linkLabel="GitHub Repo"
+                    linkLabel=" "
                 />
             </div>
         </>
